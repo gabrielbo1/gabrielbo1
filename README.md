@@ -1,5 +1,5 @@
 ### Hello welcome 👋
-- 🔭 I’m currently working on [Everis an NTT Data Company](https://www.everis.com/global/en)
+- 🔭 I’m currently working on [NTT Data Brasil Company](https://www.everis.com/global/en)
 - 🌱 I’m currently learning [Golang](https://golang.org/)
 - 👯 I’m looking to collaborate on [Iroko](https://github.com/gabrielbo1/iroko)
 <!--  🤔 I’m looking for help with ... -->
