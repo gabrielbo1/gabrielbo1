@@ -1,5 +1,5 @@
 ### Hello welcome 👋
-- 🔭 I’m currently working on [Docnix](https://nubank.com.br/](https://docnix.com.br/)
+- 🔭 I’m currently working on [Docnix](https://docnix.com.br/)
 - 🌱 I’m currently learning [Golang](https://golang.org/)
 <!--  🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java / Golang / Angular / SQL PostgreSQL and Oracle
