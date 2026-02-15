@@ -6,9 +6,6 @@
 - 📫 How to reach me:  [Gabriel Oliveira ](mailto:barbosa.olivera1@gmail.com?subject=[GitHub]%20Github%20Contact)  
 
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielbo1&count_private=true&show_icons=true"/>
-</span>
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbo1" />
-</span>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielbo1)
+![Streak](https://streak-stats.demolab.com/?user=gabrielbo1)
+
